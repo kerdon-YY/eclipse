@@ -21,6 +21,7 @@
 							name="phone_no">
 						<button type="button" class="btn btn-default" id="sendCode">发送验证码</button>
 						<br> <font id="countdown" color="red"></font> <br> 
+						<hr>
 						<input
 							type="text" class="form-control" placeholder="填写验证码"
 							name="verify_code">
